@@ -3,6 +3,16 @@
 Programa em **Python** desenvolvido **para uso pessoal**, com o objetivo de auxiliar no controle e organização de investimentos, focando em **alocação estratégica**, **registro histórico de aportes** e **análise de desbalanceamento da carteira**.
 
 O projeto também faz parte do meu **portfólio**, demonstrando a aplicação prática de Python, análise de dados e boas práticas de desenvolvimento em um problema real do dia a dia.
+---
+## 🤖 Uso de Inteligência Artificial
+
+A Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do projeto, contribuindo para:
+
+- Refinamento da lógica e fluxo do programa  
+- Melhoria da legibilidade e organização do código  
+- Revisão de regras de negócio e tratamento de exceções  
+
+Todas as decisões finais de implementação, validação e testes foram realizadas manualmente.
 
 ---
 
